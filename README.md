@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toobad000&layout=compact&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toobad000&layout=compact&theme=radical&count=10_private=true)
 
