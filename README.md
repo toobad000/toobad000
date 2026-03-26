@@ -14,13 +14,17 @@ Outside of that, I play CS2 and have reached the top 0.1% in North America — r
 
 ## What I'm Working On
 
-**Cross-Layer Network Observability (NET4000)** — A group research project using eBPF kprobes to instrument live TCP traffic at the kernel level and correlate it with application-layer HTTP latency. The goal is to produce per-request performance breakdowns across the network stack without modifying the application itself.
+- **AI-Assisted Network Troubleshooter (Capstone)**  
+An AI-powered tool designed to assist with network diagnostics and troubleshooting. Targeting the kinds of repetitive, time-consuming diagnostic workflows that network engineers deal with daily.
+  
+- **Cross-Layer Network Observability (NET4000)**   
+A group research project using eBPF kprobes to instrument live TCP traffic at the kernel level and correlate it with application-layer HTTP latency. The goal is to produce per-request performance breakdowns across the network stack without modifying the application itself.
 
-**AI-Assisted Network Troubleshooter (Capstone)** — An AI-powered tool designed to assist with network diagnostics and troubleshooting. Targeting the kinds of repetitive, time-consuming diagnostic workflows that network engineers deal with daily.
+- **5G Network Threat Response via SIEM/SOAR (NET4010)**  
+A group project proposing an integrated SIEM/SOAR platform tailored for 5G core architecture. The core problem is that manual threat response in 5G environments can take several hours due to the scale of IoT deployments, dynamic network slicing, and multi-vendor complexity. Our solution uses SIEM for centralized event correlation across 5G network functions (AMF, SMF, UPF) and SOAR to automatically trigger MITRE FiGHT playbooks — bringing response time down to a matter of minutes.
 
-**5G Network Threat Response via SIEM/SOAR (NET4010)** — A group project proposing an integrated SIEM/SOAR platform tailored for 5G core architecture. The core problem is that manual threat response in 5G environments can take several hours due to the scale of IoT deployments, dynamic network slicing, and multi-vendor complexity. Our solution uses SIEM for centralized event correlation across 5G network functions (AMF, SMF, UPF) and SOAR to automatically trigger MITRE FiGHT playbooks — bringing response time down to a matter of minutes.
-
-**OpenClaw Automation Pipelines** — I've been building and refining several fully autonomous pipelines using OpenClaw, including a daily reporting system, an automated video content pipeline, a website automation workflow, and an ongoing pipeline that surfaces new ways to use OpenClaw for income generation. None of these require manual intervention once running.
+- **OpenClaw Automation Pipelines**  
+I've been building and refining several fully autonomous pipelines using OpenClaw, including a daily reporting system, an automated video content pipeline, a website automation workflow, and an ongoing pipeline that surfaces new ways to use OpenClaw for income generation. None of these require manual intervention once running.
 
 ---
 
