@@ -8,7 +8,7 @@
 
 I'm a Network Technology student at Carleton University with a habit of building things outside of class. Most months I have a new project on the go — some make it to GitHub, most don't. I'm particularly interested in the intersection of networking and automation: using code to observe, troubleshoot, and streamline systems that would otherwise require manual effort.
 
-Outside of that, I play CS2 and have reached the top 0.1% in North America — ranked 400 out of 400,000.
+- Outside of that, I play CS2 and have reached the top 0.1% in North America, and top 50 players in Canada.
 
 ---
 
