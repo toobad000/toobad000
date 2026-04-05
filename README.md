@@ -1,4 +1,4 @@
-<a href="https://www.faceit.com/en/players/toobad" target="_blank"><img src="https://raw.githubusercontent.com/toobad000/toobad000/main/widget5.png" alt="toobad's FACEIT Stats" width="150"></a>
+<a href="https://www.faceit.com/en/players/toobad" target="_blank"><img src="https://raw.githubusercontent.com/toobad000/toobad000/main/faceitwidget.png" alt="toobad's FACEIT Stats" width="150"></a>
 <span style="display: inline-block; width: 30px;"></span>
 <a href="https://bitdegree.ca/index.php?Program=NET&Section=Courses&Page=List" target="_blank"><img src="https://raw.githubusercontent.com/toobad000/toobad000/main/bit-logo2.png" alt="My Program" width="240"></a>
 
