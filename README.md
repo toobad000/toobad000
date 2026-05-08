@@ -13,7 +13,7 @@ I'm a Network Technology Graduate from Carleton University with a habit of build
 ---
 
 ## What I'm Working On
-Openclaw developement, personal website
+Openclaw developement, personal website, CCNP prep
 
 ---
 
