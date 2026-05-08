@@ -13,6 +13,13 @@ I'm a Network Technology Graduate from Carleton University with a habit of build
 ---
 
 ## What I'm Working On
+Openclaw developement, personal website
+
+---
+
+## A Few Things I've Built
+
+Over time I've put together tools ranging from a CS2 clip trimmer that auto-detects and cuts to kill moments, to a crypto trading bot built on a pure market-making strategy with live candle pattern matching, to full-stack web applications. I tend to build whatever solves a problem I actually have.
 
 - **AI-Assisted Network Troubleshooter (Capstone)**  
 An AI-powered tool designed to assist with network diagnostics and troubleshooting. Targeting the kinds of repetitive, time-consuming diagnostic workflows that network engineers deal with daily.
@@ -25,12 +32,6 @@ A group project proposing an integrated SIEM/SOAR platform tailored for 5G core 
 
 - **OpenClaw Automation Pipelines**  
 I've been building and refining several fully autonomous pipelines using OpenClaw, including a daily reporting system, an automated video content pipeline, a website automation workflow, and an ongoing pipeline that surfaces new ways to use OpenClaw for income generation. None of these require manual intervention once running.
-
----
-
-## A Few Things I've Built
-
-Over time I've put together tools ranging from a CS2 clip trimmer that auto-detects and cuts to kill moments, to a crypto trading bot built on a pure market-making strategy with live candle pattern matching, to full-stack web applications. I tend to build whatever solves a problem I actually have.
 
 ---
 
