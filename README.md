@@ -6,14 +6,15 @@
 
 ## Hi, I'm toobad.
 
-I'm a Network Technology Graduate from Carleton University with a habit of building things outside of class. Most months I have a new project on the go — some make it to GitHub, most don't. I'm particularly interested in the intersection of networking and automation: using code to observe, troubleshoot, and streamline systems that would otherwise require manual effort.
+I'm a Network Technology Graduate from Carleton University with a habit of building things outside of class. Most months I have a new project on the go, some make it to GitHub, most don't. I'm particularly interested in the intersection of networking and automation: using code to observe, troubleshoot, and streamline systems that would otherwise require manual effort.
 
 - Outside of that, I play CS2 and have reached the top 0.1% in North America, and peak top 30 player in Canada.
 
 ---
 
 ## What I'm Working On
-Openclaw developement, personal website, CCNP prep
+Personal website; check it out at [samhartin.uk](https://samhartin.uk/) for more details about my projects.  
+CCNP prep; looking to take my CCNP exams in the next few months 
 
 ---
 
@@ -35,4 +36,4 @@ I've been building and refining several fully autonomous pipelines using OpenCla
 
 ---
 
-*Not everything I make is public — but what's here is representative of how I work.*
+*Not everything I make is public, but what's here is a small taste of what i can do*
