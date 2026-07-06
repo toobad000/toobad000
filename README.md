@@ -13,8 +13,9 @@ I'm a Network Technology Graduate from Carleton University with a habit of build
 ---
 
 ## What I'm Working On
-Personal website; check it out at [samhartin.uk](https://samhartin.uk/) for more details about my projects.  
-CCNP prep; looking to take my CCNP exams in the next few months 
+- Personal website; check it out at [samhartin.uk](https://samhartin.uk/) for more details about my projects.  
+- CCNP prep; looking to take my CCNP exams in the next few months   
+- RACKLABS; working with some similar minded people to start a new venture: https://www.linkedin.com/company/racklabs/
 
 ---
 
